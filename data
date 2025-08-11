@@ -1,0 +1,24 @@
+## Cleaned data - Data has been cleaned using SQL.
+
+  
+  Transaction_ID	Date	Customer_ID	Product	Category	Quantity	Price	Total_Amount	Payment_Method	Region
+1001	05/01/2024	C001	Laptop	Electronics	1	800		Credit Card	North
+1002	10/01/2024	C002	Smartphone	Electronics	2	600	1200	Cash	South
+1003	12/01/2024	C003	Headphones	Electronics	1	100	100	PayPal	West
+1004	05/02/2024	C004	Tablet	Electronics	1	500	500	Debit Card	East
+1005	08/02/2024	C005	Book	Books	3	20	60	Credit Card	North
+1006	10/02/2024	C001	Laptop	Electronics	1	800	800	Credit Card	North
+1007	15/03/2024	C006	Shoes	Clothing	2	50	100	Cash	South
+1008	18/03/2024	C007	T-Shirt	Clothing	1	25	25	PayPal	West
+1009	20/03/2024	C008	Smartwatch	Electronics	1	200	200	Debit Card	East
+1010	01/04/2024	C009	Book	Books	2	20	40	Credit Card	North
+1011	05/04/2024	C002	Smartphone	Electronics	2	600	1200	Cash	South
+1012	10/04/2024	C010	Tablet	Electronics	1	500	500	Debit Card	East
+1013	01/05/2024	C011	Shoes	Clothing	1	50	50	Cash	South
+1014	05/05/2024	C012	Headphones	Electronics	1	100	100	PayPal	West
+1015	08/05/2024	C013	Laptop	Electronics	1	800	800	Credit Card	North
+1016	10/05/2024	C014	T-Shirt	Clothing	3	25	75	Cash	South
+1017	01/06/2024	C015	Smartwatch	Electronics	1	200	200	Debit Card	East
+1018	05/06/2024	C016	Book	Books	4	20	80	Credit Card	North
+1019	08/06/2024	C017	Smartphone	Electronics	1	600	600	Cash	South
+1020	10/06/2024	C018	Tablet	Electronics	1	500	500	Debit Card	East
